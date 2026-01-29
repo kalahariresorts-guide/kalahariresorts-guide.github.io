@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+  <url>
+    <loc>https://kalahariresorts-guide.github.io/</loc>
+    <priority>1.00</priority>
+  </url>
+
+  <url>
+    <loc>https://kalahariresorts-guide.github.io/index.html</loc>
+    <priority>1.00</priority>
+  </url>
+
+  <url>
+    <loc>https://kalahariresorts-guide.github.io/locations.html</loc>
+    <priority>0.90</priority>
+  </url>
+
+  <url>
+    <loc>https://kalahariresorts-guide.github.io/rooms.html</loc>
+    <priority>0.90</priority>
+  </url>
+
+  <url>
+    <loc>https://kalahariresorts-guide.github.io/honeymoon.html</loc>
+    <priority>0.85</priority>
+  </url>
+
+  <url>
+    <loc>https://kalahariresorts-guide.github.io/family.html</loc>
+    <priority>0.85</priority>
+  </url>
+
+  <url>
+    <loc>https://kalahariresorts-guide.github.io/corporate.html</loc>
+    <priority>0.80</priority>
+  </url>
+
+  <url>
+    <loc>https://kalahariresorts-guide.github.io/weddings.html</loc>
+    <priority>0.80</priority>
+  </url>
+
+  <url>
+    <loc>https://kalahariresorts-guide.github.io/contact.html</loc>
+    <priority>0.70</priority>
+  </url>
+
+</urlset>
